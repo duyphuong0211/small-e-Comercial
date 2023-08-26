@@ -1,4 +1,4 @@
-# Project Readme
+# Very small e-comercial
 
 ## Introduction
 Welcome to this small yet versatile project! This project is designed to simulate various actions, including searching, filtering, and placing orders. It demonstrates a simplified relationship between different entities such as products, colors, categories, reviews, and orders.
